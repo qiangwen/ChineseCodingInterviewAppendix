@@ -1,4 +1,1 @@
-ChineseCodingInterviewAppendix
-==============================
-
-The source code for the appendix part of the Chinese version of the book Coding Interviews
+剑指offer书籍中的代码实现
